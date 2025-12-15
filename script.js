@@ -5,7 +5,7 @@ const unitTo = document.getElementById("unit-to");
 const convertBtn = document.getElementById("convert-btn");
 
 async function getConversionRate(baseCode, targetCode){
-  const API_KEY = "0e43fcbddbc7cf608e9c51dd";
+  const API_KEY = "0e43f...";
   const url = `https://v6.exchangerate-api.com/v6/${API_KEY}/pair/${baseCode}/${targetCode}`;
   try {
     const response = await fetch(url);
@@ -55,4 +55,5 @@ convertBtn.addEventListener("click", async function(){
   }catch(err){
     console.error(err.message);
   }
+
 })
