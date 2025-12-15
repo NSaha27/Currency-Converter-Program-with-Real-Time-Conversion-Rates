@@ -2,12 +2,12 @@
 
 
 💱 Currency Converter (JavaScript)
-  A simple Currency Converter web application built using HTML, CSS, and Vanilla JavaScript.
-  This project allows users to convert an amount from one currency to another using real-time exchange rates.
+A simple Currency Converter web application built using HTML, CSS, and Vanilla JavaScript.
+This project allows users to convert an amount from one currency to another using real-time exchange rates.
 
 
 🚀 Features
-Convert between multiple currencies:\n
+Convert between multiple currencies:
 USD (Dollar), 
 EUR (Euro), 
 INR (Rupee), 
@@ -22,8 +22,8 @@ AED (Dirham),
 
 
 🛠️ Technologies Used\n
-- HTML5 – Structure of the application, \n
-- CSS3 – Styling and layout, \n
+- HTML5 – Structure of the application, 
+- CSS3 – Styling and layout, 
 - JavaScript (ES6) – Conversion logic and event handling
 
 
@@ -49,5 +49,5 @@ The conversion is handled using JavaScript by applying real-time exchange rates 
 
 
 👨‍💻 Author
-Niladri Saha\n
+Niladri Saha
 Learning Full-Stack Development & UI/UX
