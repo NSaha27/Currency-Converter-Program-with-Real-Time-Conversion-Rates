@@ -28,7 +28,7 @@
 
 
 ⚙️ How It Works: 
-  1. Enter the amount in the From input field.
+  1. Enter the amount in the Form input field.
   2. Select the source currency.
   3. Select the target currency.
   4. Click the Convert button.
